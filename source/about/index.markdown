@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-I'm an Irish software engineer living abroad in San Francisco, California. I'm write code @ [Intercom](https://www.intercom.io) and hack on infrastructure and other projects at [Noisebridge](https://noisebridge.net)
+I'm an Irish software engineer living abroad in San Francisco, California. I write code @ [Intercom](https://www.intercom.io) and hack on infrastructure and other projects at [Noisebridge](https://noisebridge.net)
 
 You can also find me on
 
