@@ -15,4 +15,4 @@ You can also find me on
   * [Twitter](https://twitter.com/patrickod)
   * [Facebook](https://facebook.com/patrickod)
 
-Want to reach out to me in private? My GPG key is [F05E 232B 31FE 4222](/gpg.key)
+Want to reach out to me in private? My GPG key is [F05E 232B 31FE 4222](https://patrickod.com/gpg.key)
