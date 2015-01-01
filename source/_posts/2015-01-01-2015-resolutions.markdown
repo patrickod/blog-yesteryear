@@ -28,7 +28,7 @@ A pattern that I observed in my behavior this year is that I have a tendency to 
 
 A highlight of my year this year was [contributing to the tor project](https://blog.torproject.org/blog/stem-release-13) for the first time. Hearing Jacob and Roger talk about the work that the tor project does, and having the opportunity to chat with them during 31C3 made me realise the benefit to be gained from a wider base of contributions and support for these projects.
 
-The tor project are effecting great change in the world, and they stand for values of anonymity and privacy that I hold dear. This year I hope to show my support not only through running tor nodes and advocacy, but by contributing to project both with patches and monetary donations. In a world with global surveillance, I want to do my bit in helping the tor project and others that I see as changing the world survive.
+The tor project are effecting great change in the world, and they stand for values of anonymity and privacy that I hold dear. This year I hope to show my support not only through running tor nodes and advocacy, but by contributing to tor both with patches and monetary donations. In a world with global surveillance, I want to do my bit in helping the tor project, and others that I see as changing the world, survive.
 
 ### Use more day to day crypto
 
@@ -37,7 +37,7 @@ Jacob and Laura's talk this year ["Reconstructing narratives"](http://media.ccc.
 
 ### Blog more
 
-I greatly enjoy reading personal blogs of others, and have been putting off starting my own forever. Recently I discovered the idea of the ["Iron blogger"](http://iron-blogger-sf.com/the-rules/), a group agreement amongst friends to write a blog post once a week, with a communal beer fund to which you contribute if you fail to do so. I've decided to start one of these with a group of friends from [Noisebridge](https://noisebridge.net) and host the resulting posts as a planet to showcase the community of awesome folks in the space. I'm excited to blog more and start improving my writing skills, which I notice have atrophied somewhat since I left secondary school.
+I greatly enjoy reading personal blogs of others, and have been putting off starting my own for a while. Recently I discovered the idea of the ["Iron blogger"](http://iron-blogger-sf.com/the-rules/), a group agreement amongst friends to write a blog post once a week, with a communal beer fund to which you contribute if you fail to do so. I've decided to start one of these with a group of friends from [Noisebridge](https://noisebridge.net) and host the resulting posts as a planet to showcase the community of awesome folks in the space. I'm excited to blog more and start improving my writing skills, which I notice have atrophied somewhat since I left secondary school.
 
 I'll be in Dublin for a week yet before returning to San Francisco where many of these will start coming into play. I'm excited to see what 2015 brings.
 
