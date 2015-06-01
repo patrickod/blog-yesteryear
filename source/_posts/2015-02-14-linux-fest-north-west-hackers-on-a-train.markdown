@@ -3,7 +3,7 @@ layout: post
 title: "Linux Fest North West - Hackers on a train"
 date: 2015-02-14 22:00:22 -0800
 comments: true
-categories: [conferences, linux fest north west, trains, adventure, travel]
+categories: conferences linux fest north west trains adventure travel
 ---
 
 I realise it's been a while since I last posted. I've had some ideas for meaty blog posts but I've found them to be very difficult to shape into something I actually want to publish. The solution I think is to post more frequently about lighter material in a bid to get the hang of this blogging thing.

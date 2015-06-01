@@ -3,7 +3,7 @@ layout: post
 title: "2015: Resolutions"
 date: 2015-01-01 14:38:57 +0100
 comments: true
-categories:
+categories: life exercise health technology foss community
 ---
 
 As I write this I'm back in Dublin having been at 31C3 these last few days. It was a fantastic time meeting a whole range of new interesting people, as well as getting to know better the wonderful friends that I've made this year.

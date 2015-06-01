@@ -3,7 +3,7 @@ layout: post
 title: "Rust barcode scanner v0.1, Freecon, and exercise "
 date: 2015-05-30 15:16:03 -0700
 comments: true
-categories: rust, exercise, freecon, conference, foss
+categories: rust exercise freecon conference foss
 ---
 
 This week I finished the first version of the barcode scanning flow I've been working on for [Noisebridge](https://noisebridge.net). It's a very simple Rust CLI that listens for input from a specified input device, and outputs only valid ISBN13 codes that it receives. Today I'll work on a small Go program to take the ISBN numbers, looks them up and records the books in a PostgreSQL database. The next step after that is a small web service which allows people to search the books and see what we have at Noisebridge.
