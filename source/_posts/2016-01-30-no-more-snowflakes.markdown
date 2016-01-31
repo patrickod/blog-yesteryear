@@ -37,3 +37,8 @@ It's 2016 and the tooling for all of this has substantially improved over the
 last few years. No more hacky bash scripts that fail in weird and wonderful
 ways, just stable automation software. If ever there was a time to make this
 change it is now.
+
+**NB** There exists a [noflake manifesto](http://noflake.org) which
+  [Ross Duggan](http://rossduggan.ie/blog/infrastructure/the-noflake-manifesto/index.html)
+  introduced in an earlier blog post of his in 2012. This post takes inspiration
+  from both.
