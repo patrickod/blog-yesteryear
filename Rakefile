@@ -8,7 +8,7 @@ ssh_user       = "patrickod@patrickod.com"
 ssh_port       = "22"
 document_root  = "/srv/patrickod.com/blog"
 rsync_delete   = false
-rsync_args     = ""  # Any extra arguments to pass to rsync
+rsync_args     = "--chown patrickod:www-data"  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
